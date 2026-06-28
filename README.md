@@ -26,6 +26,5 @@ Run the whole script. It will pop up a sequence of figures: original, blurred, b
 
 - `Projekt4_digimageprocessing.m` — main script
 - `normal-paranasal-sinuses-x-ray_v2.png` — source image
-- `peppers.mlx`, `peppers_RGB.png`, `hist_RGB_peppers.png` — earlier image-processing exercise (color histogram analysis), kept for reference
 - `chest_xray.tif`, `head_CT_slice.tif`, `normal-mri-brain-3.jpg` — other medical images used in related coursework
-- `Projekt_del_2__MRI.pdf`, `MRI_MCC176___Grupp_3.pdf` — related project reports
+- `Projekt_del_2__MRI.pdf` — related project report
