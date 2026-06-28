@@ -27,4 +27,3 @@ Run the whole script. It will pop up a sequence of figures: original, blurred, b
 - `Projekt4_digimageprocessing.m` — main script
 - `normal-paranasal-sinuses-x-ray_v2.png` — source image
 - `chest_xray.tif`, `head_CT_slice.tif`, `normal-mri-brain-3.jpg` — other medical images used in related coursework
-- `Projekt_del_2__MRI.pdf` — related project report
